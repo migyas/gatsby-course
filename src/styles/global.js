@@ -50,7 +50,7 @@ const GlobalStyles = createGlobalStyle`
   }
   * {
     box-sizing: border-box;
-  }
+  } 
   body {
     background: #16202c;
     line-height: 1;
@@ -63,7 +63,7 @@ const GlobalStyles = createGlobalStyle`
   	height: auto;
   }
 
-  body.dark { 
+  body.dark {
     --borders: #38444d;
     --texts: #8899a6;
     --postColor: #fff;
@@ -73,11 +73,10 @@ const GlobalStyles = createGlobalStyle`
     --white: #fff;
     --black: #222;
   }
-
   body.light {
     --borders: #dedede;
     --postColor: #111;
-    --texts: #222;
+    --texts: #555555;
     --highlight: #1fa1f2;
     --mediumBackground: #f0f0f3;
     --background: #fff;

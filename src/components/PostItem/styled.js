@@ -4,7 +4,7 @@ import AniLink from "gatsby-plugin-transition-link/AniLink";
 
 
 export const PostItemLink = styled(AniLink)`
-  color: var(--texts)!important;
+  color: var(--texts);
   display: flex;
   text-decoration: none;
 
