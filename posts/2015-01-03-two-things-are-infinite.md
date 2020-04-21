@@ -1,8 +1,9 @@
 ---
-date: 2015-01-03 05:54:23
 title: Two thing are infinite
-description: And I'm not sure about the universe.
-category: Misc
+description: Don't worry, about think
+date: 2015-01-03T05:54:23.000Z
+image: assets/img/cover.png
+category: dev
 background: "#7AAB13"
 ---
 
